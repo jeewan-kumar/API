@@ -1,0 +1,26 @@
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\bin\Debug\net6.0\appsettings.json
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\bin\Debug\net6.0\New folder.staticwebassets.runtime.json
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\bin\Debug\net6.0\New folder.exe
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\bin\Debug\net6.0\New folder.deps.json
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\bin\Debug\net6.0\New folder.runtimeconfig.json
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\bin\Debug\net6.0\New folder.dll
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\bin\Debug\net6.0\New folder.pdb
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\obj\Debug\net6.0\New folder.csproj.AssemblyReference.cache
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\obj\Debug\net6.0\New folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\obj\Debug\net6.0\New folder.AssemblyInfoInputs.cache
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\obj\Debug\net6.0\New folder.AssemblyInfo.cs
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\obj\Debug\net6.0\New folder.csproj.CoreCompileInputs.cache
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\obj\Debug\net6.0\New folder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\obj\Debug\net6.0\New folder.RazorAssemblyInfo.cache
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\obj\Debug\net6.0\New folder.RazorAssemblyInfo.cs
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\obj\Debug\net6.0\scopedcss\bundle\New folder.styles.css
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\obj\Debug\net6.0\scopedcss\projectbundle\New folder.bundle.scp.css
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\obj\Debug\net6.0\New folder.dll
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\obj\Debug\net6.0\refint\New folder.dll
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\obj\Debug\net6.0\New folder.pdb
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\obj\Debug\net6.0\New folder.genruntimeconfig.cache
+C:\Users\jeevan.kumar\Desktop\Dot Net\New folder\obj\Debug\net6.0\ref\New folder.dll
